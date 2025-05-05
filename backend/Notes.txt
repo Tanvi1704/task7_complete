@@ -1,0 +1,9 @@
+Steps to Run enc_dec.php Without XAMPP:
+1)Open Command Prompt (cmd)
+2)Navigate to Your PHP File Directory
+Run this command:
+cd ("path")
+3)Run to start Start PHP's Built-in Server
+php -S localhost:8000
+4)Open your browser and navigate to http://localhost:8000/enc_dec.php
+--------------------------------------------------------------------------------------------
